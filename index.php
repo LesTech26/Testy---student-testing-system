@@ -468,7 +468,7 @@ if (isset($_SESSION['teacher']) && !empty($_SESSION['teacher'])) {
                 </div>
                 <div class="developer">
                     <span class="developer-text" style="padding-right:10px">разработано</span>
-                    <a href="https://t.me/les_tech" class="developer-link" target="_blank" rel="noopener noreferrer">
+                    <a href="https://vk.com/les_tech" class="developer-link" target="_blank" rel="noopener noreferrer">
                         <span class="les">LES TECH</span>
                     </a>
                 </div>
@@ -676,5 +676,6 @@ if (isset($_SESSION['teacher']) && !empty($_SESSION['teacher'])) {
         }
     </script>
 </body>
+
 
 </html>
