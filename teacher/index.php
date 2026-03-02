@@ -401,7 +401,7 @@ $cityStats = $cityStats->fetchAll();
         <div class="mt-5 pt-4 border-top text-center text-muted">
             <p>
                 <i class="bi bi-info-circle"></i> 
-                Testy © <?php echo date('Y'); ?> | 
+                Тести © <?php echo date('Y'); ?> | 
                 Версия 1.0 | Преподаватель: <?php echo $_SESSION['teacher']['last_name'] . ' ' . $_SESSION['teacher']['first_name']; ?>
                 <?php if ($teacher_city): ?>
                     | Город: <?php echo htmlspecialchars($teacher_city); ?>
@@ -418,4 +418,5 @@ $cityStats = $cityStats->fetchAll();
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
