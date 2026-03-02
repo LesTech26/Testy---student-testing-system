@@ -899,7 +899,7 @@ try {
         <div class="mt-5 pt-4 border-top text-center text-muted">
             <p>
                 <i class="bi bi-info-circle"></i>
-                Testy © <?php echo date('Y'); ?> |
+                Тести © <?php echo date('Y'); ?> |
                 Версия 1.0 | Супер-администратор: <?php echo htmlspecialchars($_SESSION['admin_username'] ?? 'Администратор'); ?>
             </p>
         </div>
@@ -1381,4 +1381,5 @@ try {
         }, 30000);
     </script>
 </body>
+
 </html>
