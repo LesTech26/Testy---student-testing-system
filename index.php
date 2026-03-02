@@ -20,7 +20,7 @@ if (isset($_SESSION['teacher']) && !empty($_SESSION['teacher'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Testy - Система тестирования студентов</title>
+    <title>Тести - Система тестирования студентов</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <link rel="icon" href="logo.png">
@@ -298,7 +298,7 @@ if (isset($_SESSION['teacher']) && !empty($_SESSION['teacher'])) {
                     <div class="logo-container">
                         <img src="logo.png" alt="Testy Logo" class="logo-image"
                             onerror="this.style.display='none'; document.getElementById('textLogo').style.display='block';">
-                        <div id="textLogo" style="display: none; font-size: 2rem; font-weight: bold;">Testy</div>
+                        <div id="textLogo" style="display: none; font-size: 2rem; font-weight: bold;">Тести</div>
                     </div>
                 </div>
 
@@ -462,14 +462,14 @@ if (isset($_SESSION['teacher']) && !empty($_SESSION['teacher'])) {
             </div>
 
             <div class="system-info">
-                <div class="brand-name">Testy</div>
+                <div class="brand-name">Тести</div>
                 <div class="copyright">
                     <i class="bi bi-c-circle"></i> © 2026 | Все права защищены
                 </div>
                 <div class="developer">
                     <span class="developer-text" style="padding-right:10px">разработано</span>
                     <a href="https://vk.com/les_tech" class="developer-link" target="_blank" rel="noopener noreferrer">
-                        <span class="les">LES TECH</span>
+                        <span class="les">Лес Тех</span>
                     </a>
                 </div>
             </div>
@@ -679,3 +679,4 @@ if (isset($_SESSION['teacher']) && !empty($_SESSION['teacher'])) {
 
 
 </html>
+
