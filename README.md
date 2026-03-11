@@ -27,11 +27,7 @@
 | **Пароль:** | testy_teacher123 |
 
 
-Тестировщики: https://github.com/statosh
-https://github.com/HQDchka
-https://github.com/Filldor2033
 
-Техническая документация: https://github.com/Filldor2033
 
 ---
 
